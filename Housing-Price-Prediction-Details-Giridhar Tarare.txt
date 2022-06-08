@@ -1,0 +1,5 @@
+Owner of Use case: Giridhar Tarare
+GitHub Repository link:https://github.com/data01312022/Housing_Price_Prediction
+Python code: https://github.com/data01312022/Housing_Price_Prediction/blob/main/Housing_price_predict_aust.ipynb
+Read me files:https://github.com/data01312022/Housing_Price_Prediction/blob/main/README.md
+PPT  Document:https://github.com/data01312022/Housing_Price_Prediction/blob/main/Housing-Price-Problem%20Statement-II.pdf
